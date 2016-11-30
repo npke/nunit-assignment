@@ -1,8 +1,8 @@
 D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\TamGiac.Test.dll
 D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\TamGiac.Test.pdb
 D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\nunit.framework.dll
-D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\TamGiac.dll
-D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\TamGiac.pdb
 D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\obj\Release\TamGiac.Test.csprojResolveAssemblyReference.cache
 D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\obj\Release\TamGiac.Test.dll
 D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\obj\Release\TamGiac.Test.pdb
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\TamGiac.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac.Test\bin\Release\TamGiac.pdb
