@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
     <Reference Include="TamGiac">
       <HintPath>..\TamGiac\bin\Release\TamGiac.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DiemTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
