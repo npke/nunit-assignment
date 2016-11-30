@@ -1,0 +1,16 @@
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\TamGiac.pdb
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\Microsoft.CSharp.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Data.DataSetExtensions.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Data.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Deployment.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Drawing.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Windows.Forms.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Xml.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\System.Xml.Linq.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Release\TamGiac.Form1.resources
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Release\TamGiac.Properties.Resources.resources
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Release\TamGiac.csproj.GenerateResource.Cache
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Release\TamGiac.pdb
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Release\TamGiac.dll
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Release\TamGiac.dll

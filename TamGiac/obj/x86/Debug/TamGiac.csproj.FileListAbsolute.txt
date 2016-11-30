@@ -1,0 +1,7 @@
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Debug\TamGiac.exe
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\bin\Debug\TamGiac.pdb
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Debug\TamGiac.Form1.resources
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Debug\TamGiac.Properties.Resources.resources
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Debug\TamGiac.csproj.GenerateResource.Cache
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Debug\TamGiac.exe
+D:\HCMUS\Term-08\software-testing\home-works\07-unit-test\TamGiac\TamGiac\obj\x86\Debug\TamGiac.pdb
